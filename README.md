@@ -23,4 +23,4 @@ The PHP script reads the contents of the specified text file and uses the substr
 
 ## Contributions
 
-Contributions to this project are welcome. If you find a bug or have an idea for an improvement, please submit an issue or create a pull request. 
+Contributions to this project are welcome. If you find a bug or have an idea for an improvement, please submit an issue or create a pull request.
