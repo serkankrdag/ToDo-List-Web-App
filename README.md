@@ -1,4 +1,4 @@
-# Word Count Application
+# Word Count Application 
 
 This is a simple web application that counts the number of occurrences of a word in a text file. It is written in PHP and JavaScript.
 
